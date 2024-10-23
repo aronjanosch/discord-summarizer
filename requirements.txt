@@ -1,0 +1,8 @@
+PyQt5
+discord.py
+ffmpeg-python
+openai
+whisper
+tiktoken
+torch
+python-dotenv
